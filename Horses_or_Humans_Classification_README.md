@@ -25,7 +25,7 @@ The goal of this project is to build a **binary classifier** that identifies whe
 - Optimizer: Adam  
 - Loss Function: Binary Crossentropy  
 - Batch Size: 32  
-- Epochs: 30  
+- Epochs: 100 
 - Input Shape: (224, 224, 3)  
 
 ## 📊 Results
