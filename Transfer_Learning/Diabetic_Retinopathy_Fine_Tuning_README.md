@@ -36,8 +36,9 @@ The model achieves strong performance on validation data and generalizes well to
 
 ## 🚀 How to Run
 1. Clone the repository  
-2. Install dependencies  
-3. Run the all cells of notebook  
+2. Install dependencies
+3. Open Google Colab
+4. Run the all cells step by step  
 
 ## 📌 Conclusion
 This project highlights the effectiveness of deep learning in medical image analysis and can be further improved using advanced architectures and larger datasets.
